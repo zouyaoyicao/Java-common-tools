@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6b0ac493-b890-471f-a221-1a53e52c5185" name="默认更改列表" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V6kaHfcmV2yGBHzyPoejU6BZbN" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.language" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6b0ac493-b890-471f-a221-1a53e52c5185" name="默认更改列表" comment="" />
+      <created>1576580993831</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576580993831</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1177" height="273" key="GridCell.Tab.0.bottom" timestamp="1576581845795">
+      <screen x="41" y="23" width="1239" height="777" />
+    </state>
+    <state width="1177" height="273" key="GridCell.Tab.0.bottom/41.23.1239.777@41.23.1239.777" timestamp="1576581845795" />
+    <state width="1177" height="273" key="GridCell.Tab.0.center" timestamp="1576581845795">
+      <screen x="41" y="23" width="1239" height="777" />
+    </state>
+    <state width="1177" height="273" key="GridCell.Tab.0.center/41.23.1239.777@41.23.1239.777" timestamp="1576581845795" />
+    <state width="1177" height="273" key="GridCell.Tab.0.left" timestamp="1576581845794">
+      <screen x="41" y="23" width="1239" height="777" />
+    </state>
+    <state width="1177" height="273" key="GridCell.Tab.0.left/41.23.1239.777@41.23.1239.777" timestamp="1576581845794" />
+    <state width="1177" height="273" key="GridCell.Tab.0.right" timestamp="1576581845795">
+      <screen x="41" y="23" width="1239" height="777" />
+    </state>
+    <state width="1177" height="273" key="GridCell.Tab.0.right/41.23.1239.777@41.23.1239.777" timestamp="1576581845795" />
+  </component>
+</project>
